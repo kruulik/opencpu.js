@@ -15,9 +15,9 @@
  */
 
 //Warning for the newbies
-if(!window.jQuery) {
-  alert("Could not find jQuery! The HTML must include jquery.js before opencpu.js!")
-}
+// if(!window.jQuery) {
+//   alert("Could not find jQuery! The HTML must include jquery.js before opencpu.js!")
+// }
 
 (function ( $ ) {
 
